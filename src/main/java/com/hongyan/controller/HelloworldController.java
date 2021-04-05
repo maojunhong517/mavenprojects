@@ -9,6 +9,6 @@ public class HelloworldController {
     @RequestMapping("/say.html")
     @ResponseBody
     public String say(){
-        return "HelloSpringBoot";
+        return "HelloSpringBoots";
     }
 }
